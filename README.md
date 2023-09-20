@@ -4,6 +4,6 @@ This dataset consists of 5 different languages (Luganda, Lusoga, Lumasaba, Achol
 
 ## Releases
 
-| Version             | Date Released  | Link to the Voice Clips   |
-| :--------------- |:---------------|:---------------|
-| 1.0.0 | Sept 20, 2023 | [Voice Clips](https://storage.googleapis.com/yogera_voice_clips/version_1.0.0) |
+| Version             | Date Released  | Link to the Voice Clips   | Recorded hours | Approved Hours | Unique Voices  |
+| :--------------- |:---------------|:---------------| :---------------| :---------------| :---------------|
+| 1.0.0 | Sept 20, 2023 | [Voice Clips](https://storage.googleapis.com/yogera_voice_clips/version_1.0.0) | 43 | 4 | 34 |
