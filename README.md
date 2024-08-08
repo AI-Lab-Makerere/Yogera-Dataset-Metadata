@@ -2,7 +2,7 @@
 This dataset was generated from the data collected from various users of the yogera mobile app. The dataset includes the metadata and the link to the to voice clips.
 This dataset consists of 5 different languages (Luganda, Lusoga, Lumasaba, Acholi and Runyankole-Rukiga)
 
-The latest dataset release (version 4.0) combines all collected data. This includes Phase 1.0 data (from August to December), Phase 1.1 data (January to February) and Phase 2.0 data from April.
+The latest dataset release (version 4.0) combines all collected data. This includes Phase 1.0 data (from August to December 2023), Phase 1.1 data (January to February 2024) and Phase 2.0 data (from April to August 2024).
 This dataset split is well represented in the metadata (inclusion of the phase column)
 
 ## Releases
