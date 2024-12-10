@@ -9,6 +9,7 @@ This dataset split is well represented in the metadata (inclusion of the phase c
 
 | Version             | Date Released  | Voice Clips   | Recorded hours | Approved Hours | Unique Voices | Transcribed | Reviewed  | 
 | :--------------- |:---------------|:---------------| :---------------| :---------------| :---------------| :---------------| :---------------|
+| 5.0.2 | Dec 10, 2024 | [Link](https://console.cloud.google.com/storage/browser/yogera_voices_backup?project=lacuna-321207&pageState=(%22StorageObjectListTable%22:(%22f%22:%22%255B%255D%22))&prefix=&forceOnObjectsSortingFiltering=false) | 3,885.9 | 2,656.2 | 3,024 | 253.2 | 251.7 |
 | 5.0.1 | Nov 20, 2024 | [Link](https://console.cloud.google.com/storage/browser/yogera_voices_backup?project=lacuna-321207&pageState=(%22StorageObjectListTable%22:(%22f%22:%22%255B%255D%22))&prefix=&forceOnObjectsSortingFiltering=false) | 3,411.1 | 2,217.7 | 2,675 | 253.2 | 251.7 |
 | 4.0.1 | Aug 13, 2024 | [Link](https://console.cloud.google.com/storage/browser/yogera_voices_backup?project=lacuna-321207&pageState=(%22StorageObjectListTable%22:(%22f%22:%22%255B%255D%22))&prefix=&forceOnObjectsSortingFiltering=false) | 2,253.3 | 1,565.8 | 1,641 | 152.8 | 151.3 |
 | 4.0.0 | Aug 07, 2024 | [Link](https://console.cloud.google.com/storage/browser/yogera_voices_backup?project=lacuna-321207&pageState=(%22StorageObjectListTable%22:(%22f%22:%22%255B%255D%22))&prefix=&forceOnObjectsSortingFiltering=false) | 2,166.8 | 1,478.1 | 1,585 | 152.8 | 151.3 |
